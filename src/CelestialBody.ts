@@ -3,3 +3,4 @@ export interface CelestialBody {
      age: number;
      size: number;
 }
+

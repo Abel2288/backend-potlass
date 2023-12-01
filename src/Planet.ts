@@ -3,8 +3,6 @@ import { CelestialBody } from "./CelestialBody";
 
 export class Planets implements CelestialBody
 {
-    
-    
     waterContent : number;
 
 constructor(public name:string ,public age:number ,public size:number, waterContent:number )
